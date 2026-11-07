@@ -1,4 +1,4 @@
-""" ARTE φ^4 — V151 σ=3.427050983124843 Onda_auto 1.168659 """
+""" ARTE φ^4 — V151 σ=3.427050983124843 Onda_auto 1.168659 — STUB: ignora N; devuelve constantes. """
 import math, random
 sigma=3.427050983124843
 def arte_phi4(N=140): return {"Onda_auto":1.168659,"sigma":sigma}
